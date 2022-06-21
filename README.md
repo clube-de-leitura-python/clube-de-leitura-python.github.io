@@ -6,12 +6,12 @@ Organização para grupos de leitura comunitários relacionados à linguagem de 
 
 ### grupos em andamento: 
 
-- [1° grupo de 2022](https://clube-de-leitura-python.github.io/primeiro_grupo_de_2022.py), início em março de 2022
+- [1° grupo de 2022](https://clube-de-leitura-python.github.io/primeiro_grupo_de_2022.py), iníciado em março de 2022, com encontros mensais na última segunda-feira do mês, 9h da manhã, leituras variadas escolhidas pelos participantes.
 
 
 ### grupos encerrados:
 
-- [Pense em Python 2021](https://clube-de-leitura-python.github.io/pense-em-python-2021/), início em 30/07/2021
+- [Pense em Python 2021](https://clube-de-leitura-python.github.io/pense-em-python-2021/), iniciado em 30/07/2021, com encontros quinzenais para a leitura do livro [Pense em Python 2e](https://penseallen.github.io/PensePython2e/), encerrado no início de 2022.
 
 ---
 
