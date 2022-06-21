@@ -15,8 +15,8 @@ Organização para grupos de leitura comunitários relacionados à linguagem de 
 
 ---
 
-Para receber lembretes: [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
-Repositório no GitHub : [github.com/clube-de-leitura-python](https://github.com/clube-de-leitura-python)
+- Para receber lembretes: [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
+- Repositório no GitHub : [github.com/clube-de-leitura-python](https://github.com/clube-de-leitura-python)
 
 ---
 
