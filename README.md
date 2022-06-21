@@ -15,5 +15,10 @@ Organização para grupos de leitura comunitários relacionados à linguagem de 
 
 ---
 
+Para receber lembretes: [tinyletter.com/clube-de-leitura-python](https://tinyletter.com/clube-de-leitura-python)
+Repositório no GitHub : [github.com/clube-de-leitura-python](https://github.com/clube-de-leitura-python)
+
+---
+
 O clube de leitura Python não tem nehuma relação com a APyB mas seguimos o [Código de conduta da Python Brasil](https://python.org.br/cdc/). O time de resposta inicialmente será composto pelas pessoas mediadoras dos grupos.
 
